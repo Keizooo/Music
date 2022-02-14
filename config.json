@@ -1,0 +1,24 @@
+{
+  "default_prefix" : "",
+ "owner" :  [""],
+ "DB": "",
+"log":  "", 
+"spotifyID" : "",
+"spotifySecret": "",
+"nodes":[
+
+      {
+     "host": "lavalink-repl.parasop.repl.co",
+      "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    },
+      {
+     "host": "lava.link",
+      "port": 80, 
+      "password": "youshallnotpass"
+        }
+    
+    ]
+  
+}
